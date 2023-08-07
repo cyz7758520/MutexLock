@@ -10,6 +10,12 @@
 &emsp;&emsp;3、调用MutexLocked函数给互斥锁上锁，例如：MutexLocked( &p_MutexLock );。  
 &emsp;&emsp;4、调用MutexUnlock函数给互斥锁解锁，例如：MutexUnlock( &p_MutexLock );。  
 
+# 其他
+&emsp;&emsp;本人QQ号：280604597    赤勇玄心行天道  
+&emsp;&emsp;本人微信：qq280604597    赤勇玄心行天道  
+&emsp;&emsp;本人博客：http://www.cnblogs.com/gaoyaguo  
+&emsp;&emsp;源代码：https://github.com/cyz7758520/MutexLock  
+
 # 捐助
 &emsp;&emsp;写软件实属不易，我希望大家能支持我、捐助我，金额随意，1块也是支持，我会继续帮助大家解决问题！  
 &emsp;&emsp;![Image text](https://img2022.cnblogs.com/blog/249784/202204/249784-20220409102957978-1181496200.jpg)![Image text](https://img2022.cnblogs.com/blog/249784/202204/249784-20220409102958309-1148822717.png)![Image text](https://img2022.cnblogs.com/blog/249784/202204/249784-20220409102958603-1915091349.png)
