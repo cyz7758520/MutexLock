@@ -15,6 +15,8 @@
 &emsp;&emsp;本人微信：qq280604597    赤勇玄心行天道  
 &emsp;&emsp;本人博客：http://www.cnblogs.com/gaoyaguo  
 &emsp;&emsp;源代码：https://github.com/cyz7758520/MutexLock  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://gitee.com/chen_yi_ze/MutexLock  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://gitcode.net/cyz7758520/MutexLock  
 
 # 捐助
 &emsp;&emsp;写软件实属不易，我希望大家能支持我、捐助我，金额随意，1块也是支持，我会继续帮助大家解决问题！  
