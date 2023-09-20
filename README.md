@@ -14,6 +14,7 @@
 &emsp;&emsp;本人QQ号：280604597    赤勇玄心行天道  
 &emsp;&emsp;本人微信：qq280604597    赤勇玄心行天道  
 &emsp;&emsp;本人博客：http://www.cnblogs.com/gaoyaguo  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://blog.csdn.net/cyz7758520?type=blog  
 &emsp;&emsp;源代码：https://github.com/cyz7758520/MutexLock  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://gitee.com/chen_yi_ze/MutexLock  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://gitcode.net/cyz7758520/MutexLock  
